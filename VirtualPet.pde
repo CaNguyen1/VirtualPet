@@ -1,4 +1,5 @@
 size(400,400);
+background(#B264F7);
 
 //head shape and eye shape
 noStroke();
